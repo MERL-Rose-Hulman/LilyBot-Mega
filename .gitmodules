@@ -1,0 +1,3 @@
+[submodule "LilyBotCommon"]
+	path = LilyBotCommon
+	url = https://github.com/MERL-Rose-Hulman/LilyBotCommon
